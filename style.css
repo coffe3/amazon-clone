@@ -1,0 +1,58 @@
+.card-body {
+    background-image: url(./images/bg.png);
+    background-repeat: no-repeat;
+    max-width: 400px;
+    max-height: 300px;
+    border-radius: 30px;
+}
+
+.logo {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.logo-name {
+    display: flex;
+}
+
+.logo-name p {
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+}
+
+.chip {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.card {
+    font-weight: bolder;
+    font-size: 14px;
+    color: white;
+}
+
+.num {
+    font-weight: bolder;
+    font-size: 18px;
+    color: white;
+}
+
+.name {
+    font-weight: bolder;
+    font-size: 14px;
+    color: white;
+}
+
+.date {
+    font-weight: bolder;
+    font-size: 14px;
+    color: white;
+}
+
+.name-date {
+    display: flex;
+}
+
+
+
